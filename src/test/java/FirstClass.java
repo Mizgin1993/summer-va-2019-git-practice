@@ -5,6 +5,8 @@ public class FirstClass {
         System.out.println("Hello world. This is Mizgin preaching  ");
 
         System.out.println("change is hereeee");
+        System.out.println("change is hereeee");
+        System.out.println("change is hereeee");
 
     }
 }
